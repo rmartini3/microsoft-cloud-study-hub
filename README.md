@@ -14,7 +14,9 @@ O projeto simula uma esteira corporativa de engenharia de software e operações
 - **Azure DevOps Services:** Gestão de Work Items e rastreabilidade de entregas técnicas via protocolo OAuth. (Em construção)
 - **Confluence:** Base de conhecimento e documentação oficial dos fichamentos técnicos. (Em construção)
 
-<img width="1432" height="738" alt="Projeto" src="https://github.com/user-attachments/assets/99a5b8c6-fde8-4518-bfc3-cf7a9552d811" />
+<p align="center">
+  <img width="850" alt="Demonstração do Projeto Jira" src="https://github.com/user-attachments/assets/99a5b8c6-fde8-4518-bfc3-cf7a9552d811" />
+</p>
 
 
 ## 📂 Estrutura do Repositório
